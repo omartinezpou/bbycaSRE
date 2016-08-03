@@ -1,0 +1,29 @@
+body
+{
+ background: rgb(0, 59, 100)
+
+}
+
+.container
+{
+ width: 920px
+ margin-top: auto:
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: auto;
+ text-align: center;
+}
+
+img { 
+ width: 50%; 
+ height: auto; 
+ display: block;
+ margin: 0 auto;
+}
+
+h1 {
+ font-family: open_sanssemibold, Arial, sans-serif;
+ font-size: 52px;
+ color: #FFD700;
+ margin-top:10
+}
