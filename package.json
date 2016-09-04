@@ -1,0 +1,31 @@
+{
+  "name": "bbyca-sre-anton",
+  "version": "1.0.0",
+  "description": "Best buy site reliability engineer",
+  "main": "bestbuy.ca.js",
+  "scripts": {
+    "start": "bestbuy.ca.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omartinezpou/bbycaSRE.git"
+  },
+  "keywords": [
+    "example",
+    "bb"
+  ],
+  "author": "anton",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.13.3",
+    "ejs": "2.4.1",
+    "path": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/omartinezpou/bbycaSRE/issues"
+  },
+  "homepage": "https://github.com/omartinezpou/bbycaSRE#readme",
+  "engines": {
+    "nodes": "4.5.0"
+  }
+}
