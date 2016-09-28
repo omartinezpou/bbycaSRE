@@ -1,0 +1,28 @@
+{
+  "name": "bbycasre",
+  "version": "1.0.0",
+  "description": "best buy canada devops assignment",
+  "main": "bestbuy.ca.js",
+  "scripts": {
+    "test": "bestbuy.ca.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denhsu/bbycaSRE.git"
+  },
+  "keywords": [
+    "bestbuy",
+    "devops"
+  ],
+  "author": "denhsu",
+  "license": "ISC",
+ "dependencies": {
+    "express": "4.13.3",
+    "ejs": "2.4.1",
+    "path": "*"
+},
+  "bugs": {
+    "url": "https://github.com/denhsu/bbycaSRE/issues"
+  },
+  "homepage": "https://github.com/denhsu/bbycaSRE#readme"
+}
