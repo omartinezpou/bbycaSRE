@@ -1,0 +1,27 @@
+{
+  "name": "App-Dev--CI-Review",
+  "description": "Dev - CI Review Apps Environment",
+  "scripts": {
+  },
+  "env": {
+    "ENV": {
+      "required": true
+    },
+    "PORT": {
+      "required": true
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
